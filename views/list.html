@@ -18,10 +18,10 @@
 			        <input ng-model="search.uf">
 			     </md-input-container>
 		    </div>
-			<md-list-item class="secondary-button-padding" ng-repeat="vote in votes | filter: {Nome: search.nome,Partido: search.partido,UF: search.uf}" ng-click="null">
+			<md-list-item class="secondary-button-padding" ng-repeat="vote in votes | filter: {Nome: search.nome,Partido: search.partido,UF: search.uf}" ng-click="speak(vote.discurso)" layout="row">
 
-				<div class="md-list-item-text" >
-					<h3>{{ vote.Nome }}</h3>
+				<div class="md-list-item-text" flex="100" >
+					<h3>{{ vote.Nome }} <small ng-if="vote.discurso" ng-class="{teal: vote.Voto=='A favor', red: vote.Voto=='Contra'}">[Clique e Ouça o discurso]</small></h3>
 					<h4>{{ vote.Partido }} - {{ vote.UF }}</h4>					
 					<p ng-class="{teal: vote.Voto=='A favor', red: vote.Voto=='Contra'}">Voto: {{ vote.Voto }}</p>
 				</div>

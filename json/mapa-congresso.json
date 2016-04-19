@@ -107,7 +107,8 @@
     "Voto": "A favor",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "2",
-    "id": 10
+    "id": 10,
+    "discurso": "Sabe porque não vamos ter 342 votos amanhã. Porque vamos ter mais de 380. Porque o larapio mor, o lularapio queria vender camarote no Titanic. O navio está afundando e ele queria vender camarote. Ninguém quis comprar."
   },
   {
     "Nome": "Bohn Gass",
@@ -117,7 +118,8 @@
     "Voto": "Contra",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "2",
-    "id": 11
+    "id": 11,
+    "discurso": "Deveriamos parar essa seção e primeiro afastar um réu por corrupção, Eduardo Cunha, é réu na Lava Jato.” “Nós não podemos ter o golpe, é ilegítimo. Não podemos fazer o processo de afastar uma pessoa honesta presididos por um réu da Lava Jato."
   },
   {
     "Nome": "Carlos Gomes",
@@ -157,7 +159,8 @@
     "Voto": "A favor",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "2",
-    "id": 15
+    "id": 15,
+    "discurso": "O impeachment vai possibilitar que, sob a direção do presidente Michel Temer, surja um autêntico governo de salvação nacional apto a reunir maiores talentos da vida pública e do setor privado."
   },
   {
     "Nome": "Giovani Cherini",
@@ -167,7 +170,8 @@
     "Voto": "A favor",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "2",
-    "id": 16
+    "id": 16,
+    "discurso": "Vou votar sim pelo impeachment. Minhas filhas, o meu pai, a minha família, os meus amigos não vão se envergonhar de que um dia Giovani Cherini, passando por esse parlamento, se acovardou e disse não à história. Não é golpe. Golpe é enganar o povo, a roubalheira."
   },
   {
     "Nome": "Heitor Schuch",
@@ -177,7 +181,8 @@
     "Voto": "A favor",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "2",
-    "id": 17
+    "id": 17,
+    "discurso": "Tenho consciência de que meu voto a favor agradará a muitos e desagradará outros[...] Confesso que tenho dúvidas de quem vai ganhar essa guerra de poder, mas sei quem já perdeu[...] Perderam famílias vendo a inflação reduzindo seus orçamentos, empresas que fecharam as portas e jovens sem perspectivas."
   },
   {
     "Nome": "Henrique Fontana",
@@ -187,7 +192,8 @@
     "Voto": "Contra",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "2",
-    "id": 18
+    "id": 18,
+    "discurso": "Contra o ódio e a intolerância, que grita fanaticamente ‘Fora, PT’ como gritaram muitos fascistas, contra esse processo ilegal e imoral, [...] pelo direito sagrado do povo brasileiro de escolher seus governantes em eleições diretas [...], eu voto contra o impeachment, pela democracia brasileira e pelo povo."
   },
   {
     "Nome": "Jerônimo Goergen",
@@ -247,7 +253,8 @@
     "Voto": "A favor",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "2",
-    "id": 24
+    "id": 24,
+    "discurso": "Alguém [oposicionista] disse canalha, golpista. Canalha e golpista são aqueles que assaltam o bolso do povo brasileiro. É um escândalo o que está acontecendo com a Petrobras. O superfaturamento de obras que está acontecendo hoje. São bilhões surrupiados do povo brasileiro."
   },
   {
     "Nome": "Luiz Carlos Busato",
@@ -267,7 +274,8 @@
     "Voto": "Contra",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "2",
-    "id": 26
+    "id": 26,
+    "discurso": "A população espera desse Parlamento que ele seja capaz de fazer um bom debate. [...] O que estamos tratando hoje nesta Casa é, num primeiro momento, um impedimento de uma presidente que foi eleita por mais de 54 milhões de votos. E que não cometeu crime."
   },
   {
     "Nome": "Marcon",
@@ -277,7 +285,8 @@
     "Voto": "Contra",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "2",
-    "id": 27
+    "id": 27,
+    "discurso": "Este impeachment não tem nada de técnico. Ele é político. Esta burguesia brasileira não aguenta mais ver trabalhador andar de avião, não aguenta mais ver trabalhador andar de carro novo [...]. É um processo político. Se fosse um caso de roubalheira, o PMDB, que fala em ética, e o PSDB, que fala em ética, teriam que pegar o presidente da Câmar."
   },
   {
     "Nome": "Maria do Rosário",
@@ -287,7 +296,8 @@
     "Voto": "Contra",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "2",
-    "id": 28
+    "id": 28,
+    "discurso": "Comete-se nesta Câmara o maior crime, que é o julgamento viciado. Um julgamento para o qual ataca-se sem provas e procura-se cassar a Presidência da República em seus direitos políticos. Retirá-la do poder para que um vice-presidente sem votos ocupe seu lugar."
   },
   {
     "Nome": "Mauro Pereira",
@@ -297,7 +307,8 @@
     "Voto": "A favor",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "2",
-    "id": 29
+    "id": 29,
+    "discurso": "O governo Dilma e a equipe do PT conseguiram desaminar até os gaúchos. É uma desesperança. É uma mistura do ruim com o que tem de pior: é recessão, é juro alto, é roubalheira, é tudo o que tem de pior. Agora vem a zika, e a dengue nem terminou. Esse é o Governo do PT."
   },
   {
     "Nome": "Nelson Marchezan Junior",
@@ -337,7 +348,8 @@
     "Voto": "Contra",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "2",
-    "id": 33
+    "id": 33,
+    "discurso": "Os senhores Querem enganar a quem? Será que os senhores de fato acreditam que alguém no Brasil acredita que os senhores querem tirar a presidenta Dilma para combater a corrupção? Querem enganar o Brasil mentindo que querem combater a corrupção com Cunha e Temer?"
   },
   {
     "Nome": "Pepe Vargas",
@@ -347,7 +359,8 @@
     "Voto": "Contra",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "2",
-    "id": 34
+    "id": 34,
+    "discurso": "O primeiro objetivo dos golpistas é acabar com a corrupção nesse país, como faziam no tempo em que eram governo, em que acobertavam, que engavetavam e não permitiam que as investigações ocorressem. O segundo objetivo desse golpe é colocar por terra os avanços e as conquistas do povo trabalhador desse país."
   },
   {
     "Nome": "Pompeo de Mattos",
@@ -357,7 +370,8 @@
     "Voto": "Abstenção",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "2",
-    "id": 35
+    "id": 35,
+    "discurso": "Eu queria votar pelo impeachment, mas o meu partido decidiu votar contra o impeachment pela sua executiva nacional, pela imensa maioria da minha bancada. Eu como homem de partido [...] eu vou cumprir a decisão do partido."
   },
   {
     "Nome": "Renato Molling",
@@ -447,7 +461,8 @@
     "Voto": "A favor",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "3",
-    "id": 44
+    "id": 44,
+    "discurso": "O governo tem nos acusado de golpistas. Mas que coragem! Golpe quem deu no povo brasileiro foram eles[...] Mais de 10 milhões de brasileiros perderam seu emprego, perderam poder de compra [...] A saúde está um caos. E mais do que isso, fez uma campanha eleitoral mentirosa."
   },
   {
     "Nome": "João Paulo Kleinübing",
@@ -467,7 +482,8 @@
     "Voto": "A favor",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "3",
-    "id": 46
+    "id": 46,
+    "discurso": "Eu só fico observando os senhores deputados do PT, do PC do B, do PSOL, com todo respeito: vocês têm uma cara de pau sem tamanho. Vocês ofendem o povo brasileiro todo dia, toda hora [...]. Amanhã esse Congresso fará os senhores silenciarem."
   },
   {
     "Nome": "Jorge Boeira",
@@ -517,7 +533,8 @@
     "Voto": "Contra",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "3",
-    "id": 51
+    "id": 51,
+    "discurso": "Se não há crme de responsabilidade, não é impeachment, é golpe.” “Os golpistas de plantão querem destruir as conquistas do pais. Esses que fazem o discurso pelo golpe estão envolvidos na Lava Jato. Quem abraça o Cunha e o Michel Temer, abraça o golpe e a corrupção."
   },
   {
     "Nome": "Rogério Peninha Mendonça",
@@ -547,7 +564,8 @@
     "Voto": "A favor",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "3",
-    "id": 54
+    "id": 54,
+    "discurso": "Houve o golpe nas eleições, do BNDES, do fundo de pensão, houve o golpe na reforma agrária; houve o golpe na dívida brasileira, que hoje chega a R$ 3 trilhões [...]. Por isso, nós estamos aqui neste dia, 17 de abril, que será um dia histórico, marcando a nossa presença, para dizer sim ao impeachment. Essa a única saída para que este país."
   },
   {
     "Nome": "André Abdon",
@@ -577,7 +595,8 @@
     "Voto": "Contra",
     "Regiao": "Norte",
     "OrdemVotacaoUF": "4",
-    "id": 57
+    "id": 57,
+    "discurso": "Tenho convicção de que não foi comprovado crime de responsabilidade cometido pela presidente Dilma Rousseff. Vamos separar o que é político do que é jurídico. Defendo a soberania do voto popular."
   },
   {
     "Nome": "Jozi Araújo",
@@ -607,7 +626,8 @@
     "Voto": "Contra",
     "Regiao": "Norte",
     "OrdemVotacaoUF": "4",
-    "id": 60
+    "id": 60,
+    "discurso": "O que a oposição golpista quer é um atalho, porque sabe que irá perder, de novo, as eleições em 2018. E está utilizando o instrumento do impeachment para alcançar esse atalho eleitoral. Se a presidente Dilma é corrupta, como a oposição golpista diz, então por que não apresentaram um processo dizendo isso: crime de improbidade administrativa?"
   },
   {
     "Nome": "Roberto Góes",
@@ -647,7 +667,8 @@
     "Voto": "Contra",
     "Regiao": "Norte",
     "OrdemVotacaoUF": "5",
-    "id": 64
+    "id": 64,
+    "discurso": "A presidenta Dilma não frequenta nenhuma relação de delatores, não há crimes, não á investigação nenhuma sobre a presidenta Dilma Rousseff. O que está se tentando é incriminar a presidenta não pelos seus erros, mas pelos seus acertos."
   },
   {
     "Nome": "Beto Salame",
@@ -717,7 +738,8 @@
     "Voto": "A favor",
     "Regiao": "Norte",
     "OrdemVotacaoUF": "5",
-    "id": 71
+    "id": 71,
+    "discurso": "Precisamos passar o país a limpo, vamos limpar o Brasil.” “Vamos acabar com essa sangria absurda, é uma gatunagem tirando dinheiro do Brasil. Estamos passando necessidade, mas isso vai mudar porque vamos trazer respeito ao nosso Brasil.” “Vamos exigir do novo governo que traga mais honraria, mais respeito ao dinheiro público."
   },
   {
     "Nome": "José Priante",
@@ -797,7 +819,8 @@
     "Voto": "Contra",
     "Regiao": "Norte",
     "OrdemVotacaoUF": "5",
-    "id": 79
+    "id": 79,
+    "discurso": "Eu já disse várias vezes que o nosso Governo, em 12 anos, fizemos mais do que todo o período militar e a Nova República durante 40 anos [...]. Eu estou decepcionado com o tamanho da picaretagem política que ainda existe nesta Câmara de Deputados! O Michel Temer e o Eduardo Cunha são hoje os coordenadores, os chefes desta picaretagem."
   },
   {
     "Nome": "Alex Canziani",
@@ -877,7 +900,8 @@
     "Voto": "Contra",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "6",
-    "id": 87
+    "id": 87,
+    "discurso": "Não há nenhuma prova de crime. E, se não há crime, só há um nome: é golpe. E não adianta querer mudar o nome, porque a direita, quando deu o golpe militar no Brasil, em 1º de abril, tentou mudar o nome. Quando nós éramos garotos, era revolução. Mas a história não perdoa. Golpista é golpista."
   },
   {
     "Nome": "Evandro Roman",
@@ -887,7 +911,8 @@
     "Voto": "A favor",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "6",
-    "id": 88
+    "id": 88,
+    "discurso": "Escutei durante muitos dias a questão do ódio e da raiva. Queria dizer que não tenho raiva ou ódio e tenho certeza que boa parte das pessoas que estão aqui também não têm. O que eu tenho é indignação. A minha indignação é do povo que quer mudança e o impeachment da presidente Dilma."
   },
   {
     "Nome": "Fernando Francischini",
@@ -967,7 +992,8 @@
     "Voto": "A favor",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "6",
-    "id": 96
+    "id": 96,
+    "discurso": "Acabou a fase jurídica, a fase é política e a nação brasileira não suporta mais esse governo do Lula, Dilma e do PT. Assaltaram os fundos de Previdência das estatais, enganaram os funcionários públicos, enganam os sem-terra. Se fosse um governo de trabalhador, não teria um trabalhador sem terra."
   },
   {
     "Nome": "Luiz Nishimori",
@@ -987,7 +1013,8 @@
     "Voto": "A favor",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "6",
-    "id": 98
+    "id": 98,
+    "discurso": "Eu entendo que a presidente Dilma, o vice-presidente Michel Temer, Eduardo Cunha, Renan Calheiros, deviam ter um gesto de grandeza e deixar o lugar em que estão, convocar eleições gerais e fazer com que pessoas novas assumam o poder no nosso país. Pessoas novas em posturas, em práticas, maneira de agir. A população brasileira não aguenta mais."
   },
   {
     "Nome": "Nelson Meurer",
@@ -1027,7 +1054,8 @@
     "Voto": "A favor",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "6",
-    "id": 102
+    "id": 102,
+    "discurso": "O impeachment é um processo político, jurídico e social. Se não tiver povo, não há impeachment algum. O povo está nas ruas participando desse processo porque cansou do PT no poder. O povo cansou de ver um projeto de poder que, para se manter, usa a corrupção como método de financiamento. É o governo do mensalão. A corrupção vem de longe."
   },
   {
     "Nome": "Ricardo Barros",
@@ -1097,7 +1125,8 @@
     "Voto": "Contra",
     "Regiao": "Sul",
     "OrdemVotacaoUF": "6",
-    "id": 109
+    "id": 109,
+    "discurso": "Quero dizer que me honra e me orgulha muito estar aqui deste lado, o lado dos que não se associam ao Cunha e à sua busca por impunidade. Estar aqui ao lado daqueles que respeitam a democracia, que não querem que o Brasil volte àquele tempo em que nada se investigava, em que ninguém era punido e a corrupção era jogada para debaixo do tapete."
   },
   {
     "Nome": "Carlos Marun",
@@ -1137,7 +1166,8 @@
     "Voto": "A favor",
     "Regiao": "Centro-Oeste",
     "OrdemVotacaoUF": "7",
-    "id": 113
+    "id": 113,
+    "discurso": "O preço a ser pago é alto, mas o Brasil é maior que esse erro político que estamos enfrentando e que vamos vencer.” “A 14 meses o governo Dilma está sangrando e para os brasileiros já virou hemorragia.” “As principais ações desse governo tiveram como alicerce a corrupção.” “Os brasileiros estão fartos desse jeito de governar."
   },
   {
     "Nome": "Mandetta",
@@ -1307,7 +1337,8 @@
     "Voto": "A favor",
     "Regiao": "Norte",
     "OrdemVotacaoUF": "9",
-    "id": 130
+    "id": 130,
+    "discurso" : "Os cinco princípios da administração foram violentados por Dilma Rousseff e seu governo. A legalidade, a impessoalidade, a moralidade, a publicidade e a eficiência. Todos violados. É o governo do imoral, do interesse pessoal em detrimento do interesse coletivo."
   },
   {
     "Nome": "Mariana Carvalho",
@@ -1347,7 +1378,8 @@
     "Voto": "A favor",
     "Regiao": "Centro-Oeste",
     "OrdemVotacaoUF": "10",
-    "id": 134
+    "id": 134,
+    "discurso": "Enfim chegamos ao dia esperado pela população, de julgamos a presidente da República, Dilma Rousseff. O dia do impeachment constitucional, legal e necessário, que tão é demandado pela população brasileira. Não há projetos, diretrizes, determinação deste governo, legitimidade."
   },
   {
     "Nome": "Célio Silveira",
@@ -1387,7 +1419,8 @@
     "Voto": "A favor",
     "Regiao": "Centro-Oeste",
     "OrdemVotacaoUF": "10",
-    "id": 138
+    "id": 138,
+    "discurso": "Amanhã daremos um voto definitivo pró-impeachment, porque as coisas precisam mudar. Há um sopro de mudança que vem com a Lava Jato e que amanhã terá um grande ato no Congresso Nacional. Esse sopro é um sopro que vai trazer, se Deus quiser, dignidade na nossa República."
   },
   {
     "Nome": "Flávia Morais",
@@ -1407,7 +1440,8 @@
     "Voto": "A favor",
     "Regiao": "Centro-Oeste",
     "OrdemVotacaoUF": "10",
-    "id": 140
+    "id": 140,
+    "discurso": "É uma atrapalhada atrás da outra. É por isso que nós temos que dizer ‘basta’ de improvisação, de falta de planejamento e de fisiologismo. Basta de corrupção, de pedaladas fiscais e de má gestão. A presidente Dilma é economista, mas arruinou a nossa economia."
   },
   {
     "Nome": "Heuler Cruvinel",
@@ -1497,7 +1531,8 @@
     "Voto": "Contra",
     "Regiao": "Centro-Oeste",
     "OrdemVotacaoUF": "10",
-    "id": 149
+    "id": 149,
+    "discurso": "Em 2014, a oposição perdeu a eleição. Além disso, também perdeu a paciência em disputar a eleição e partiu para um tudo ou nada, para um quanto pior, melhor, para uma atuação que sacrifica o país e tenta assim justificar o golpe [...]. A oposição deveria sair para rua e dizer: 'olha, nós partimos para essa tática porque perdemos a eleição em 2002, em 2006, em 2010, perdemos em 2014, e agora não temos mais paciência'."
   },
   {
     "Nome": "Thiago Peixoto",
@@ -1537,7 +1572,8 @@
     "Voto": "Contra",
     "Regiao": "Centro-Oeste",
     "OrdemVotacaoUF": "11",
-    "id": 153
+    "id": 153,
+    "discurso": "Falar de covardia, esses que se escondem atrás de um corrupto como Eduardo Cunha, esses que se calam frente aos R$ 52 milhões e as contas na Suíça. Covardes são os que querem solapar a democracia.” “Estamos tendo a repetição de 1964, as fardas estão sendo substituídas por paletós apertados. É golpe, e amanhã vamos dizer tchau golpistas e fascistas. Não passarão."
   },
   {
     "Nome": "Izalci",
@@ -1547,7 +1583,8 @@
     "Voto": "A favor",
     "Regiao": "Centro-Oeste",
     "OrdemVotacaoUF": "11",
-    "id": 154
+    "id": 154,
+    "discurso": "Deixe de enganar o povo, deixe de dizer que é golpe, não é golpe, é constitucional, o art. 85 está muito claro. Houve, sim, crimes, mas não vou entrar no mérito dos crimes, não. Eu quero que o Senado apure não só as pedaladas ou os decretos, mas, de fato, o que foi feito neste governo."
   },
   {
     "Nome": "Laerte Bessa",
@@ -1587,7 +1624,8 @@
     "Voto": "A favor",
     "Regiao": "Centro-Oeste",
     "OrdemVotacaoUF": "11",
-    "id": 158
+    "id": 158,
+    "discurso": "Vimos a economia falir, dissolver, ruir, o desemprego bater na porta das pessoas. Por isso, eu amanhã votarei pelo impeachment, pelo impedimento da presidente Dilma, acreditando que um novo governo possa retomar o crescimento e trazer esperança."
   },
   {
     "Nome": "Alan Rick",
@@ -1607,7 +1645,8 @@
     "Voto": "Contra",
     "Regiao": "Norte",
     "OrdemVotacaoUF": "12",
-    "id": 160
+    "id": 160,
+    "discurso": "Não há fato jurídico que justifique o impeachment da presidente Dilma Rousseff [...]. A busca por holofotes e a tentativa de tirar o protagonismo político de lideranças democraticamente eleitas pelo povo não condizem com a postura de juízes. A soberania popular é princípio fundamental da República brasileira."
   },
   {
     "Nome": "César Messias",
@@ -1647,7 +1686,8 @@
     "Voto": "Contra",
     "Regiao": "Norte",
     "OrdemVotacaoUF": "12",
-    "id": 164
+    "id": 164,
+    "discurso": "A defesa da presidente Dilma foi demolidora em relação ao frágil relatório aprovado na comissão. Amanhã, quando for votar não ao impeachment, estarei votando em nome de meus filhos e  em nome de milhões de crianças brasileiras. Apoiar esse golpe é rasgar a Constituição."
   },
   {
     "Nome": "Rocha",
@@ -1657,7 +1697,8 @@
     "Voto": "A favor",
     "Regiao": "Norte",
     "OrdemVotacaoUF": "12",
-    "id": 165
+    "id": 165,
+    "discurso": "A verdade é que é chegada a hora de dar uma nova chance ao Brasil, de dar uma nova chance ao povo brasileiro [...], que cansou de ser roubado. Nós não podemos deixar que a mentira prevaleça. Aqui nessa tribuna por várias vezes tentaram nos convencer de que não se trata de um golpe."
   },
   {
     "Nome": "Sibá Machado",
@@ -1667,7 +1708,8 @@
     "Voto": "Contra",
     "Regiao": "Norte",
     "OrdemVotacaoUF": "12",
-    "id": 166
+    "id": 166,
+    "discurso" : "Há um acordo que não é dito: se Michel Temer virar presidente, nesta traição, ele vai acabar com a CLT, querem acabar com o Bolsa Família, querem acabar com a universidade pública, com o Minha Casa, Minha Vida e querem entregar o pré-sal que vale R$ 20 trilhões para interesses americanos e outros."
   },
   {
     "Nome": "Carlos Henrique Gaguim",
@@ -1807,7 +1849,8 @@
     "Voto": "A favor",
     "Regiao": "Centro-Oeste",
     "OrdemVotacaoUF": "14",
-    "id": 180
+    "id": 180,
+    "discurso": "Amanhã será o dia 'D', o dia da libertação dessa nação. Estou percebendo que, em todos discursos que a gente está ouvindo, sempre têm a palavra golpe. Eu quero dizer que certos tempos atrás, nos primórdios do Brasil, um golpista chamado Joaquim josé da Silva Xavier foi também chamado de golpista."
   },
   {
     "Nome": "Ságuas Moraes",
@@ -1817,7 +1860,8 @@
     "Voto": "Contra",
     "Regiao": "Centro-Oeste",
     "OrdemVotacaoUF": "14",
-    "id": 181
+    "id": 181,
+    "discurso": "Tancredo Neves, onde quer que esteja, deve estar envergonhado do seu neto, que iniciou o comando de um golpe. [...] Quero dizer também que a presidente Dilma Rousseff encaminhou medidas de combate à corrupção, e o presidente desta Casa não iniciou a votação."
   },
   {
     "Nome": "Valtenir Pereira",
@@ -1857,7 +1901,8 @@
     "Voto": "Contra",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "15",
-    "id": 185
+    "id": 185,
+    "discurso": "Nós incluímos os trabalhadores que vieram para o centro e foram para as escolas. Mais de sete milhões de jovens foram para as universidades [...]. Se a oposição quer governar, espere 2018. Mas no grito, não, porque no grito é golpe e nós não vamos aceitar."
   },
   {
     "Nome": "Andres Sanchez",
@@ -1917,7 +1962,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "15",
-    "id": 191
+    "id": 191,
+    "discurso": "O país vive um momento ímpar na sua história. Hoje já é domingo, dia 17 de abril de 2016, o dia em que esta Casa vai dar uma resposta por que o povo brasileiro tanto anseia, que é o voto sim ao impeachment da Presidente. Hoje é o dia em que nós podemos dar de volta aos brasileiros a oportunidade de ter esperança, esperança perdida pela crise econômica."
   },
   {
     "Nome": "Beto Mansur",
@@ -1957,7 +2003,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "15",
-    "id": 195
+    "id": 195,
+    "discurso": "Hoje é um dia histórico para a população brasileira, dia de votarmos sim ao impeachment. Um governo que já deu o que tinha que dar. Infelizmente não há a menor possibilidade de ficar no poder. Seria uma catástrofe para o Brasil se houvesse a menor possibilidade de não ter o impeachment."
   },
   {
     "Nome": "Carlos Sampaio",
@@ -2007,7 +2054,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "15",
-    "id": 200
+    "id": 200,
+    "discurso": "Os maiores legados desse governo aos brasileiros são a desesperança, o mau exemplo, a mensagem de que os fins justificam os meios, o vale tudo pelo poder, o uso da mentira como algo normal e a disseminação do ódio e da divisão da nação. A novela da corrupção parece não ter fim."
   },
   {
     "Nome": "Edinho Araújo",
@@ -2037,7 +2085,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "15",
-    "id": 203
+    "id": 203,
+    "discurso": "Amanhã será um dia histórico, dia de extrema importância, não somente por causa da retirada da presidente do seu cargo, mas também porque vai sinalizar que país teremos no futuro. Na minha opinião, houve inúmeros crimes cometidos pela Presidente Dilma. Gosto de olhar o conjunto da obra."
   },
   {
     "Nome": "Eli Corrêa Filho",
@@ -2087,7 +2136,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "15",
-    "id": 208
+    "id": 208,
+    "discurso": "A incapacidade do governo é inédita. Nem quando Getúlio Vargas morreu tivemos uma crise de tal monta. O projeto de poder do Partido dos Trabalhadores, de tão avassalador, menosprezou os princípios básicos da governança e produziu o maior rombo em nossas contas públicas. O nível de corrupção foi acachapante."
   },
   {
     "Nome": "Gilberto Nascimento",
@@ -2127,7 +2177,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "15",
-    "id": 212
+    "id": 212,
+    "discurso": "Amanhã será um dia histórico, e nós votaremos a mudança do país. Eu, e a grande maioria das pessoas que votaram em mim [...], nós temos a convicção de que votar a favor do impeachment é o melhor para o Brasil. Nós queremos criar uma expectativa de melhora. Nós queremos dar esperança para o povo brasileiro."
   },
   {
     "Nome": "Ivan Valente",
@@ -2167,7 +2218,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "15",
-    "id": 216
+    "id": 216,
+    "discurso": "Golpe foi o que fizeram com os fundos de pensão dos Correis, da Petrobras, do Banco do Brasil, da Caixa Econômica Federal, onde pegaram esses recursos e levaram para fazer obras na Bolívia, no Peru, na Venezuela, enquanto no Brasil o índice de desemprego atinge 10% da população."
   },
   {
     "Nome": "José Mentor",
@@ -2287,7 +2339,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "15",
-    "id": 228
+    "id": 228,
+    "discurso": "Os trabalhadores perderam seu emprego, centenas de empresas fechando as suas portas. Este é o governo que perdeu a sua credibilidade. Quero dizer a todos que, pelo bem do nosso povo, pelo bem do nosso país, neste domingo vamos votar sim pelo impeachment. [...] Impeachment já."
   },
   {
     "Nome": "Nelson Marquezelli",
@@ -2307,7 +2360,8 @@
     "Voto": "Contra",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "15",
-    "id": 230
+    "id": 230,
+    "discurso": "Esse processo de impeachment não tem base legal, porque não existe crime de responsabilidade. Trata-se de um julgamento político, que ameaça violar a Constituição e a democracia. O que está em jogo aqui é a continuidade dos governos populares de Lula e Dilma, que estão dando vez e voz aos trabalhadores e aos mais pobres."
   },
   {
     "Nome": "Orlando Silva",
@@ -2317,7 +2371,8 @@
     "Voto": "Contra",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "15",
-    "id": 231
+    "id": 231,
+    "discurso": "Nos últimos meses, nós enfrentamos um processo viciado, comandado por uma pessoa incapaz, que de modo inadequado ainda preside esta Casta. Eu cumprimento os deputados da base porque nós demonstramos que é uma farsa o processo de impeachment, que não há crime de responsabilidade que possa ser imputado à presidente, demonstramos que há uma sanha para chegar à Presidência sem votos."
   },
   {
     "Nome": "Paulo Freire",
@@ -2407,7 +2462,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "15",
-    "id": 240
+    "id": 240,
+    "discurso": "Eles definitivamente brincaram com o nosso povo. Quem eles acham que vive nesse país? Chegou a hora de dizer: basta PT, basta Dilma. Por isso, amanhã os 22 deputados do PRB serão uma só voz: impeachment já."
   },
   {
     "Nome": "Roberto de Lucena",
@@ -2437,7 +2493,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "15",
-    "id": 243
+    "id": 243,
+    "discurso": "A presidente ter sido eleita, como qualquer um de nós, não lhe dá um salvo-conduto para que ela faça o que quiser. É preciso respeitar as regras. [...] O fato de ter sido eleita fez com que, no seu governo, ela cometesse crime de responsabilidade."
   },
   {
     "Nome": "Sérgio Reis",
@@ -2457,7 +2514,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "15",
-    "id": 245
+    "id": 245,
+    "discurso": "Este quadro caótico que o país vive foi consequência de má administração, incompetência, corrupção e soberba na política. O impeachment não acontecerá somente com os votos da oposição."
   },
   {
     "Nome": "Tiririca",
@@ -2487,7 +2545,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "15",
-    "id": 248
+    "id": 248,
+    "discurso": "O legado diferente que deixou a presidente Dilma e o ex-presidente Lula é o legado da corrupção institucionalizada. Nós sabemos muito bem que não é admissível o vale-tudo que se faz nesse momento para viabilizar os votos necessários. É isso que a população brasileira repudia."
   },
   {
     "Nome": "Vicente Candido",
@@ -2507,7 +2566,8 @@
     "Voto": "Contra",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "15",
-    "id": 250
+    "id": 250,
+    "discurso": "O que está por trás disso [o impeachment] são os banqueiros, que se unem com ruralistas, com capitalistas internacionais para pegar a Petrobras. O discurso da oposição de que a corrupção tem que ser combatida é um discurso apenas para inglês ver [...]. Eu não vou permitir o golpe, porque o golpe é o interesse."
   },
   {
     "Nome": "Vinicius Carvalho",
@@ -2527,7 +2587,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "15",
-    "id": 252
+    "id": 252,
+    "discurso": "No governo do PT, centenas de hospitais fecharam as suas portas. [...] Este governo inconsequente quebrou o país, quebrou os estados, quebrou as prefeituras, além de ter quebrado milhares de indústrias. [...] Toda essa corrupção generalizada quebrou o país."
   },
   {
     "Nome": "Alberto Filho",
@@ -2587,7 +2648,8 @@
     "Voto": "A favor",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "16",
-    "id": 258
+    "id": 258,
+    "discurso": "Fiz uma consulta aos meus eleitores [...] e a maioria da população que participou dessa consulta disse que eu deveria votar a favor da admissibilidade do impeachment da presidente Dilma. E assim o farei hoje."
   },
   {
     "Nome": "João Castelo",
@@ -2697,7 +2759,8 @@
     "Voto": "Contra",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "16",
-    "id": 269
+    "id": 269,
+    "discurso": "Quero lembrar aos opositores que este processo que nós estamos discutindo é o processo de impeachment de um presidente da República eleito de forma legítima por 54 milhões de brasileiros. Não estamos aqui discutindo no palanque eleitoral se o governo do PT é bom ou ruim."
   },
   {
     "Nome": "Zé Carlos",
@@ -2707,7 +2770,8 @@
     "Voto": "Contra",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "16",
-    "id": 270
+    "id": 270,
+    "discurso": "Querem enganar o povo brasileiro, fazendo acreditar que lei orçamentária prevista no inciso seis, desse artigo 5 da nossa Constituição é a mesma coisa que Lei de Responsabilidade Fiscal. [...] A Constituição é clara, se não está previsto nela, é golpe."
   },
   {
     "Nome": "Adail Carneiro",
@@ -2757,7 +2821,8 @@
     "Voto": "A favor",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "17",
-    "id": 275
+    "id": 275,
+    "discurso": "Quem não vier amanhã é covarde. Não vale o voto que recebeu nas ruas do seu eleitor. Vocês acham que a presidente Dilma e seu governo vai honrar o compromisso que tem feito distribuindo cargos em ministérios? Ela caloteou 54 milhões de eleitores. Você acha que ela vai honrar você?"
   },
   {
     "Nome": "Chico Lopes",
@@ -2817,7 +2882,8 @@
     "Voto": "Contra",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "17",
-    "id": 281
+    "id": 281,
+    "discurso": "Nós não pudemos permitir que aqueles que sempre governaram essa nação queiram agora destituir uma presidenta eleita democraticamente. Uma mulher séria, guerreira, que deu a vida pela liberdade e pela justiça do nosso povo. [...] Qual foi o crime, se nós nem sequer julgamos as contas da presidente Dilma?"
   },
   {
     "Nome": "José Guimarães",
@@ -2847,7 +2913,8 @@
     "Voto": "Contra",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "17",
-    "id": 284
+    "id": 284,
+    "discurso": "O processo de impeachment é um ato absolutamente político. Não há nenhuma denúncia concreta. Dilma é uma mulher séria, honesta e verdadeiramente preocupada com o povo brasileiro, diferente de muitos que se atrevem a julgá-la e que respondem a diversos processos neste país."
   },
   {
     "Nome": "Macedo",
@@ -2867,7 +2934,8 @@
     "Voto": "A favor",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "17",
-    "id": 286
+    "id": 286,
+    "discurso": "O TCU, por 9 a 0, disse que houve fraude fiscal. Não houve um ministro do TCU para dizer que tinha dúvida. Se precisar, eu desenho para vocês, 9 a zero. Houve sim o crime de responsabilidade. E o TCU é um tribunal constitucional."
   },
   {
     "Nome": "Moses Rodrigues",
@@ -2877,7 +2945,8 @@
     "Voto": "A favor",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "17",
-    "id": 287
+    "id": 287,
+    "discurso": "As ruas representam os milhares de cearenses que estão nas filas de espera dos hospitais públicos, os trabalhadores que perderam seus empregos. [...] Represento pessoas que foram às ruas. ...] Libertem o povo brasileiro da gestão petista."
   },
   {
     "Nome": "Odorico Monteiro",
@@ -2897,7 +2966,8 @@
     "Voto": "A favor",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "17",
-    "id": 289
+    "id": 289,
+    "discurso": "Impeachment não é golpe, muito pelo contrário. O impeachment serve para nós fortalecermos as instituições do estado democrático de direito. Foi lá no Nordeste que a Dilma ganhou as eleições. E foi lá no Nordeste que ela não tem mais credibilidade"
   },
   {
     "Nome": "Ronaldo Martins",
@@ -2927,7 +2997,8 @@
     "Voto": "A favor",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "17",
-    "id": 292
+    "id": 292,
+    "discurso": "Deste governo que nos acusa de golpistas, nós que somos favoráveis ao impeachment somos golpistas. O que é golpe é o que eles fizeram na Petrobras. Quebraram a Petrobras. Porque não falar do mensalão, que compraram ou tentaram comprar a consciência de parlamentares. Golpe está tentando fazer o PT. Impeachment já."
   },
   {
     "Nome": "Alessandro Molon",
@@ -2947,7 +3018,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "18",
-    "id": 294
+    "id": 294,
+    "discurso": "Essa madrugada de 17 de abril de 2016, sem dúvida, um dia histórico para o nosso país. É com muito orgulho, dignidade e clareza que venho a essa tribuna para dizer que reafirmo meu voto sim ao impeachment porque houve sim crime de responsabilidade."
   },
   {
     "Nome": "Alexandre Valle",
@@ -2967,7 +3039,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "18",
-    "id": 296
+    "id": 296,
+    "discurso": "Tenho a convicção e a opinião formada, e votarei a favor o impeachment com o meu coração tranquilo. Respeito a presidente Dilma, acho também que ela é uma mulher honesta, mas não foi capaz, talvez, de escolher aqueles que assessoraram ela."
   },
   {
     "Nome": "Arolde de Oliveira",
@@ -2977,7 +3050,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "18",
-    "id": 297
+    "id": 297,
+    "discurso": "O objetivo da denúncia que caracteriza o crime de responsabilidade cometido por sua excelência presidente da República foi cabalmente demonstrado na comissão e incluído no relatório. Não restam dúvidas de que a presidente infringiu dipositivo do artigo 85 da Constituição, da lei complementar 101, de 2000, e da Lei de Impeachment."
   },
   {
     "Nome": "Aureo",
@@ -2997,7 +3071,8 @@
     "Voto": "Contra",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "18",
-    "id": 299
+    "id": 299,
+    "discurso": "Não vai ter golpe amanhã. Isso é golpe! É um golpe na Constituição. É um golpe nos direitos dos trabalhadores e trabalhadoras! Não quero ser repetitiva. Quero apenas dizer que há um movimento, que não é do PT, que está pelo Brasil afora para desmentir, quando aqui usam a tribuna para dizer: o povo não quer mais a presidenta Dilma."
   },
   {
     "Nome": "Cabo Daciolo",
@@ -3037,7 +3112,8 @@
     "Voto": "Contra",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "18",
-    "id": 303
+    "id": 303,
+    "discurso": "Esse golpe, articulado pelo político mais processado da história do Brasil, em Parceira com a oposição, não passará. Serão derrotados amanhã. Porque a população já está entendendo que esse conluio contra a presidente da República não tem lógica, fere a Constituição e fere todo o processo legal no Brasil."
   },
   {
     "Nome": "Clarissa Garotinho*",
@@ -3077,7 +3153,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "18",
-    "id": 307
+    "id": 307,
+    "discurso": "Momento extremamente traumático. Os governistas fixaram seu discurso dizendo que tudo isso não passa de um grande golpe. Impeachment é um instituto constitucional, com embasamento jurídico e político. Por duas vezes, o STF se manifestou confirmando a legalidade desse processo. Desta forma, a corte máxima da justiça confirma que não há golpe."
   },
   {
     "Nome": "Eduardo Cunha",
@@ -3127,7 +3204,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "18",
-    "id": 312
+    "id": 312,
+    "discurso": "Chamo a atenção para aquilo que ainda não foi dito. O crime de responsabilidade que está previsto na constituição não é um tipo penal no sentido estrito. Caso contrário, seguiria o rito do código de processo penal. Na verdade, o crime de responsabilidade é uma figura constitucional. É uma situação politica onde um dos poderes rompe um pacto de respeito aos demais poderes."
   },
   {
     "Nome": "Glauber Braga",
@@ -3137,7 +3215,8 @@
     "Voto": "Contra",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "18",
-    "id": 313
+    "id": 313,
+    "discurso": "O espaço de poder não vale a pena se for através da injustiça e pisando na democracia. Deputados e deputadas qe respeitaram e despeitaram a minha fala, independente do resultado de domingo, eu não queria estar no lugar do Michel Temer e do Eduardo Unha, porque conseguir e não conseguir qualquer espaço de poder utilizando a injustiça não é, para mim, uma prática política que possa prevalecer."
   },
   {
     "Nome": "Hugo Leal",
@@ -3227,7 +3306,8 @@
     "Voto": "Contra",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "18",
-    "id": 322
+    "id": 322,
+    "discurso": "Sei o que é o regime de exceção. E entendo, como parlamentar, que nós termos que respeitar a vontade de leitores: o voto. E os eleitores, de forma democrática, elegeram Dilma presidente da República. Quero dizer: Dilma é integra, Dilma é honesta. Por não pactuar com corrupção, por não compactuar com conchavo é que querem retirá-la do poder."
   },
   {
     "Nome": "Marcelo Matos",
@@ -3277,7 +3357,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "18",
-    "id": 327
+    "id": 327,
+    "discurso": "Queria lembrar que daqui a poucas horas esse plenário vai autorizar o processo de impedimento da presidente Dilma Vana Rousseff. Respaldado em dois fundamentos: jurídico e político. Formalidades atendidas, pedaladas fiscais que se constituem em uso ilegal do dinheiro do Banco do Brasil, Caixa Econômica e BNDES, sem autorização do parlamento, constituem-se em crime."
   },
   {
     "Nome": "Paulo Feijó",
@@ -3287,7 +3368,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "18",
-    "id": 328
+    "id": 328,
+    "discurso": "Os 13 anos de governo do PT se transformaram em uma verdadeira tragédia para o povo brasieiro. Inflação alta, PIB com queda de 4%, corrupção generalizada. Eu voto sintonizado com meus eleitores, represento o norte e noroeste do estado do RJ. Eu não tenho dúvidas que estou contribuindo para termos um país melhor.” “Nunca assistir a um momento tão trágico como esse."
   },
   {
     "Nome": "Pedro Paulo",
@@ -3317,7 +3399,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "18",
-    "id": 331
+    "id": 331,
+    "discurso": "O crime de responsabilidade que a presidente Dilma cometeu é muito claro: há uma vedação objetiva na lei, onde um banco público não pode emprestar dinheiro para um governo. A defesa do ministro José Eduardo Cardozo é um deboche para o povo brasileiro."
   },
   {
     "Nome": "Rosangela Gomes",
@@ -3427,7 +3510,8 @@
     "Voto": "Contra",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "19",
-    "id": 342
+    "id": 342,
+    "discurso": "Um golpe de estado se caracteriza pela tomada do poder fora das regras democráticas. Nosso país já esteve de joelhos para o golpe militar [...]. Faço uma grave denúncia para o Brasil e para o mundo: tentam neste momento nos submeter a um novo golpe dissimulado, um golpe parlamentar."
   },
   {
     "Nome": "Helder Salomão",
@@ -3437,7 +3521,8 @@
     "Voto": "Contra",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "19",
-    "id": 343
+    "id": 343,
+    "discurso": "Um processo de impechment é um processo legal. Contudo, impeachment sem crime de responsabilidade: é golpe parlamentar contra o povo brasileiro. [...] Meu voto é contra uma ação nascida na ilegalidade. O processo foi aberto pelo presidente desta Csaa por revanche."
   },
   {
     "Nome": "Lelo Coimbra",
@@ -3487,7 +3572,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "19",
-    "id": 348
+    "id": 348,
+    "discurso": "Estou aqui me posicionando lembrando que o PT, que tem homens e mulheres de bem, fez alianças que não estavam na história do nosso partido de centro-esquerda. Hoje reclamam do Temer, do Cunha, do Renan, mas foi o PT que alimentou esses homens desse país[...] Defendo eleições gerais para o nosso país."
   },
   {
     "Nome": "Assis Carvalho",
@@ -3497,7 +3583,8 @@
     "Voto": "Contra",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "20",
-    "id": 349
+    "id": 349,
+    "discurso": "Esse processo nasce de um processo de vingança, de ódio, porque o PT não quis sujar as suas mãos enterrando um processo de impeachment [de Cunha] no Conselho de ÉTica. Eu quero dizer não a quem suja as mãos com essa farsa [...]. E hoje eu estou feliz, porque os golpistas sabem que não têm os votos necessários para continuar com essa farsa."
   },
   {
     "Nome": "Átila Lira",
@@ -3577,7 +3664,8 @@
     "Voto": "Contra",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "20",
-    "id": 357
+    "id": 357,
+    "discurso": "Lamento profundamente toda essa movimentação irresponsável pelo fim do mandato da presidenta Dilma Rousseff. O governo Dilma sempre foi um parceiro imprescindível nos avanços da melhoria da qualidade de vida do povo brasileiro, especialmente na questão da inclusão social."
   },
   {
     "Nome": "Rodrigo Martins",
@@ -3637,7 +3725,8 @@
     "Voto": "A favor",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "21",
-    "id": 363
+    "id": 363,
+    "discurso": "A presidência da República afirmou que o Brasil estava pronto para resistir a abalos externos. Tomado essa frase como verdade, podemos concluir que o que vivemos hoje é resultado de uma sucessão de erros pagos pela população. Para maquiar os números, recorreu-se às pedaladas, crime de responsabilidade passível de enfrentamento desse processo constitucional que eu e o PSB apoiamos."
   },
   {
     "Nome": "Rogério Marinho",
@@ -3647,7 +3736,8 @@
     "Voto": "A favor",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "21",
-    "id": 364
+    "id": 364,
+    "discurso": "Golpe é a mentira do PT.” “Golpe é ter discurso diferente da prática, é mentir, maquiar a realidade para se manter no poder.” “Golpe é aparelhar com dinheiro público movimentos sociais e utilizar a mentira como método.” “Golpe é roubar as estatais e os fundos de pensão, destruir o dinheiro da petrobras e as esperanças da nação."
   },
   {
     "Nome": "Walter Alves",
@@ -3677,7 +3767,8 @@
     "Voto": "Contra",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "22",
-    "id": 367
+    "id": 367,
+    "discurso": "Este não será o país do ódio. O que é repugnante é assistir os golpistas falarem mal da presidente Dilma. Impeachment sem crime de responsabilidade é golpe. A oposição não se conteta com o resultado das urnas. [...] Querem tomar à força o que não conseguiram nas urnas. São todos golpistas. O que é amentável é assisti-los ofenderem  a Constituição."
   },
   {
     "Nome": "Aelton Freitas",
@@ -3757,7 +3848,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "22",
-    "id": 375
+    "id": 375,
+    "discurso": "O ser humano, sem trabalho, é um ser sem dignidade. O país precisa voltar a crescer para gerar mais empregos. O aposentado não consegue nem comprar o remédio dele. Em 2003, as ratazanas chegaram ao poder rastejando nas prateleiras baixas para roer o queijo e chegaram com tanta fome que acabou com nosso país."
   },
   {
     "Nome": "Diego Andrade",
@@ -3817,7 +3909,8 @@
     "Voto": "A favor",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "22",
-    "id": 381
+    "id": 381,
+    "discurso": "Vamos virar esta página. [...] Quero um povo livre e independente de esmolar. Quando reclamamos por escolas, hospitais, segurança, transportes, queremos apenas que devolvam o nosso dinheiro. [...] Desacato às leis orçamentárias é um crime contra o povo, é um crime de responsabilidade capaz de tirar do poder o presidente da República."
   },
   {
     "Nome": "Franklin Lima",
@@ -3867,7 +3960,8 @@
     "Voto": "Contra",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "22",
-    "id": 386
+    "id": 386,
+    "discurso": "Eu quero que os deputados e deputadas aqui presentes retomem a seriedade e a responsabilidade. Nós não temos que inventar crime de responsabilidade. Crime de responsabilidade está previsto em lei federal, e é esta lei que nós queremos ver."
   },
   {
     "Nome": "Júlio Delgado",
@@ -3987,7 +4081,8 @@
     "Voto": "Contra",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "22",
-    "id": 398
+    "id": 398,
+    "discurso": "Esse sessão está profunda e irrevessivelmente corrompida. Aqui se analisa admissibilidade de impeachment sem crime de responsabilidade.” “É corrompido um processo se o juiz que o preside é réu."
   },
   {
     "Nome": "Mário Heringer",
@@ -4057,7 +4152,8 @@
     "Voto": "Contra",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "22",
-    "id": 405
+    "id": 405,
+    "discurso": "Outra tristeza é também os atores da tentativa de golpe. Primeiro, o presidente desta Casa, que é réu no Supremeo Tribunal Federal. Além de ser réu, ele admite o processo de impeachment justamente quando a bancada do PT admite em acatar a acusação dele no Conselho de Ética."
   },
   {
     "Nome": "Patrus Ananias",
@@ -4097,7 +4193,8 @@
     "Voto": "Contra",
     "Regiao": "Sudeste",
     "OrdemVotacaoUF": "22",
-    "id": 409
+    "id": 409,
+    "discurso" : "Dilma mexe na estrutura da renda do país, aí apenas a elite suporta a democracia. O que nós estamos assistindo é o rompimento de parte da elite brasileira com o processo democrático do país. Não é primeira vez. [...] As elites acham que a democracia é muita cara pro país."
   },
   {
     "Nome": "Renzo Braz",
@@ -4217,7 +4314,8 @@
     "Voto": "Contra",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "23",
-    "id": 421
+    "id": 421,
+    "discurso": "Vossas excelências querem usurpar. São, portanto, usurpadores. São, portanto, ditadores. E aí lampejam com corrupção. Ora, somos todos contra a corrução. Mas quem fortaleceu o Ministério Público e a Polícia Federal foram Lula e Dilma, foram nossos governos"
   },
   {
     "Nome": "Antonio Brito",
@@ -4297,7 +4395,8 @@
     "Voto": "Contra",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "23",
-    "id": 429
+    "id": 429,
+    "discurso": "Quem está mentindo aqui é a oposição. Eles estão na defensiva, estão só dizendo que não vai ter golpe. A opinião pública sabe que aqui nesta Casa está se conspirando para construir o golpe aqui no Brasil. É uma trama que estão construindo. É uma farsa para o povo brasileiro."
   },
   {
     "Nome": "Claudio Cajado",
@@ -4307,7 +4406,8 @@
     "Voto": "A favor",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "23",
-    "id": 430
+    "id": 430,
+    "discurso": "Colocar-se que o empréstimo bancário sem autorização do Congresso, do Banco do Brasil e da Caixa, é um fator de menor importância, é um deboche a fazer querer que nós não tenhamos a responsabilidade de dizer que esse é um crime ainda maior.” “O momento é do impeachment."
   },
   {
     "Nome": "Daniel Almeida",
@@ -4327,7 +4427,8 @@
     "Voto": "Contra",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "23",
-    "id": 432
+    "id": 432,
+    "discurso": "Nenhum tostão do povo brasileiro caiu no bolso da presidente. Esse processo é ilegal, imoral e vem contra você, minha cidadã e meu cidadão do brasil, porque vai atentar contra o Bolsa Familia, contra o Minha Casa Minha Vida."
   },
   {
     "Nome": "Elmar Nascimento",
@@ -4337,7 +4438,8 @@
     "Voto": "A favor",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "23",
-    "id": 433
+    "id": 433,
+    "discurso": "A presidente Dilma não parece honesta e não é honesta. Se formos olhar o artigo 95 da Constituição Federal, poderemos perceber, desde já, que em cinco incisos a presidente cometeu crime de responsabilidade."
   },
   {
     "Nome": "Erivelton Santana",
@@ -4377,7 +4479,8 @@
     "Voto": "A favor",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "23",
-    "id": 437
+    "id": 437,
+    "discurso": "Represento uma extensa faixa da população do meu estado e milhões de brasileiros que acreditam na plena mudança política [...] longe de escândalos e assaltos bilionários aos cofres públicos. [...] Não queremos que o Brasil siga em constante decadência."
   },
   {
     "Nome": "João Carlos Bacelar",
@@ -4407,7 +4510,8 @@
     "Voto": "Contra",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "23",
-    "id": 440
+    "id": 440,
+    "discurso": "Vocês já sabem que a presidente Dilma não cometeu nenhum crime. Nada. Nada foi encontrado. Passaram mais de 1 ano vasculhando todas as possibilidades buscando encontrar uma justificativa e não encontraram nada."
   },
   {
     "Nome": "José Carlos Aleluia",
@@ -4417,7 +4521,8 @@
     "Voto": "A favor",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "23",
-    "id": 441
+    "id": 441,
+    "discurso": "Este processo de impeachment não é o fim. É um recomeço, uma recuperação, uma reconstrução dos valores brasileiros que foram destruídos por 13 anos do PT. Destruíram nossas universidades, transformadas em espaços reservados para partidos sectários, partido comunista controlando a universidades, atacando os cristãos."
   },
   {
     "Nome": "José Carlos Araújo",
@@ -4497,7 +4602,8 @@
     "Voto": "Contra",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "23",
-    "id": 449
+    "id": 449,
+    "discurso": "Precisamos, mulheres, ter vergonha e não deixar que seja tirada Dilma Rousseff da presidência da República.” “Temer, você é traidor e golpista. Vocês [oposição] não têm coragem de dizer ‘fora Cunha’. Os R$ 52 milhões devem ainda estar sendo distribuídos."
   },
   {
     "Nome": "Paulo Azi",
@@ -4507,7 +4613,8 @@
     "Voto": "A favor",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "23",
-    "id": 450
+    "id": 450,
+    "discurso": "A crise se instalou em nosso país. Sim, a presidente cometeu crime fiscal, com graves consequências para a população brasileira. O Brasil perdeu credibilidade internacional. A economia foi totalmente desorganizada, veio o aumento do juros, do dólar."
   },
   {
     "Nome": "Paulo Magalhães",
@@ -4577,7 +4684,8 @@
     "Voto": "Contra",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "23",
-    "id": 457
+    "id": 457,
+    "discurso": "A peça que está sendo discutida sobre o golpe são seis decretos e também sobre a questão do plano safra. O que são esses seis decretos? A presidente Dilma fez isso aí pra poder fortalezer a educação braisileira, pra liberar recurso pras universidade."
   },
   {
     "Nome": "Waldenor Pereira",
@@ -4587,7 +4695,8 @@
     "Voto": "Contra",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "23",
-    "id": 458
+    "id": 458,
+    "discurso": "A presidenta Dilma não recebeu propinas e, muito menos, atentou contra a Constituição brasileira, até porque as pedaladas fiscais foram devidamente corrigidas pelo Congresso Nacional, ainda em 2015, quando adequou e corrigiu a meta fiscal do Brasil."
   },
   {
     "Nome": "Aguinaldo Ribeiro",
@@ -4627,7 +4736,8 @@
     "Voto": "A favor",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "24",
-    "id": 462
+    "id": 462,
+    "discurso": "A saúde está um caos, a educação é precária. Somos reféns do crime e da violência. A presidente Dilma está isolada no poder e o governo rejeitado nas ruas. Ela perdeu a capacidade de governar o país. Ninguém acredita mais no que Dilma fala e faz. Ela cometeu crimes de reponsabilidade fiscal. As pedaladas causaram um rombo no orçamento."
   },
   {
     "Nome": "Hugo Motta",
@@ -4647,7 +4757,8 @@
     "Voto": "Contra",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "24",
-    "id": 464
+    "id": 464,
+    "discurso": "É golpe, sim. E é golpe baixo, e é golpe sujo. É golpe contra a nossa presidente Dilma, uma mulher íntegra, honesta, e quem diz isso é o próprio acusador, o Miguel Reale. Ele mesmo que atesta a honestidade da nossa presidente. Agora, esse golpe baixo deixa aqui esse presidente que está aqui presidindo [Eduardo Cunha, presidente da Câmara], que é réu."
   },
   {
     "Nome": "Manoel Junior",
@@ -4667,7 +4778,8 @@
     "Voto": "A favor",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "24",
-    "id": 466
+    "id": 466,
+    "discurso": "Chegamos às etapas finais de uma luta conduzida sobretudo pelo povo brasileiro. O mais decisivo motor dessa apuração são cidadãos livres e independentes, que foram às ruas, que não silenciaram, protestaram, se indignaram e que não toleram mais um governo que assalta o nosso país."
   },
   {
     "Nome": "Rômulo Gouveia",
@@ -4757,7 +4869,8 @@
     "Voto": "A favor",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "25",
-    "id": 475
+    "id": 475,
+    "discurso": "Daqui a algumas horas, teremos um encontro com a nossa história. Daqui a algumas horas, a população brasileira irá testemunhar um momento de grande significado para a democracia brasileira. Nós estamos diante de um processo que não alegra àqueles que estão aqui, e aos milhões que estão lá fora, mas que tornou-se inevitável. Será autorizada abertura de processo de impeachment contra a presidente da República."
   },
   {
     "Nome": "Bruno Araújo",
@@ -5007,7 +5120,8 @@
     "Voto": "Contra",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "26",
-    "id": 500
+    "id": 500,
+    "discurso": "Nós ficamos felizes quando nós vimos esse ódio contra Lula e Dilma,  porque não encontraram nenhuma virgula contra Dilma, contra Lula, por isso inventaram a chamada pedalada fiscal. Lula e Dilma são pessoas honradas. 52 anos depois do golpe militar, aqui dentro, hoje, daqui a pouco, vocês ficarão marcados na história do Brasil como os golpistas que rasgaram a Constituição."
   },
   {
     "Nome": "Jony Marcos",
@@ -5107,7 +5221,8 @@
     "Voto": "Contra",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "27",
-    "id": 510
+    "id": 510,
+    "discurso": "Vocês ficarão marcados como gado, como diz o Zé Ramalho, com a tatuagem na testa de golpista para os seus filhos, para a sociedade, porque na linha hierárquica, se tivesse o golpe, o Eduardo Cunha seria o presidente do Brasil."
   },
   {
     "Nome": "Pedro Vilela",
@@ -5117,7 +5232,8 @@
     "Voto": "A favor",
     "Regiao": "Nordeste",
     "OrdemVotacaoUF": "27",
-    "id": 511
+    "id": 511,
+    "discurso": "Nós temos assistido, nessas últimas semanas, ao último suspiro de um governo que hoje é refém de suas próprias mentiras; um governo que hoje paga pela sua incapacidade, pela sua soberba, pela sua prepotência, mas sobretudo um governo que hoje paga pela sua irresponsabilidade para com o Brasil, pela sua teimosia, pela sua insistência em infringir as leis deste País."
   },
   {
     "Nome": "Ronaldo Lessa",

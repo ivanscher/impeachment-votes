@@ -7,4 +7,10 @@ angular.module('ListCtrl', [])
 	.error(function(err){
 		console.log('Error: ', err);
 	});
+	$scope.speak = function(discurso){
+		if(discurso)
+			responsiveVoice.speak(discurso, 'Portuguese Female');
+		else
+			return false;
+	}
 });
