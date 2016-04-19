@@ -1,0 +1,28 @@
+{
+  "name": "impeachment-votes",
+  "authors": [
+    "i-scher <i.scher@altacomunicazione.com.br>"
+  ],
+  "description": "Lista e filtro de deputados que votou no impeachment.",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "material design"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "devDependencies": {
+    "angular": "^1.5.5",
+    "angular-animate": "^1.5.5",
+    "angular-aria": "^1.5.5",
+    "angular-material": "^1.0.7",
+    "angular-route": "^1.5.5",
+    "angular-sanitize": "^1.5.5"
+  }
+}

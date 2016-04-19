@@ -1,0 +1,31 @@
+<div ng-controller="ListCtrl" layout="row">
+		<md-list flex>
+			<div flex layout="row" layout-wrap>
+				<md-subheader class="md-no-sticky" flex='100'>Fonte de informação: <a href="https://github.com/schweller/mapa-impeachment" target="_blank">schweller/mapa-impeachment</a></md-subheader>
+				<md-subheader class="md-no-sticky" flex='100'>{{votes.length}} votos no total</md-subheader>
+				<md-input-container  flex='50'>
+			        <label>Buscar por nome</label>
+			        <input ng-model="search.nome">
+			     </md-input-container>
+			    
+			    <md-input-container  flex='25'>
+			        <label>Partido</label>
+			        <input ng-model="search.partido">
+			     </md-input-container>
+			    
+			    <md-input-container  flex='25'>
+			        <label>Estado</label>
+			        <input ng-model="search.uf">
+			     </md-input-container>
+		    </div>
+			<md-list-item class="secondary-button-padding" ng-repeat="vote in votes | filter: {Nome: search.nome,Partido: search.partido,UF: search.uf}" ng-click="null">
+
+				<div class="md-list-item-text" >
+					<h3>{{ vote.Nome }}</h3>
+					<h4>{{ vote.Partido }} - {{ vote.UF }}</h4>					
+					<p ng-class="{teal: vote.Voto=='A favor', red: vote.Voto=='Contra'}">Voto: {{ vote.Voto }}</p>
+				</div>
+				<md-divider ></md-divider>
+			</md-list-item>
+		</md-list>
+</div>
