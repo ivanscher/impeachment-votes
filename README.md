@@ -6,5 +6,7 @@ Filtro por nome, partido e estado.
 ##Tecnlogias Utilizadas
 AngularJS e Angular Material
 
-##Informações no formato de Json 
-Créditos: https://github.com/schweller/mapa-impeachment
+##Informações 
+Votos: https://github.com/schweller/mapa-impeachment
+
+Discursos: http://createstorm.com.br/dev/impeachment-votes/#/
