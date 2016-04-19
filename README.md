@@ -9,4 +9,4 @@ AngularJS e Angular Material
 ##Informações 
 Votos: https://github.com/schweller/mapa-impeachment
 
-Discursos: http://createstorm.com.br/dev/impeachment-votes/#/
+Discursos: http://g1.globo.com/politica/processo-de-impeachment-de-dilma/noticia/2016/04/saiba-o-que-disseram-os-deputados-que-se-inscreveram-para-discursar.html
